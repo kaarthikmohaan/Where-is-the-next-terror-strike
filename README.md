@@ -4,13 +4,10 @@ Identifies global terror hubs and analyse vulnerable motifs in a terrorist netwo
 
 # Project Objective's
 
-To analyse and identify key terror hubs and vulnerable motifs within terrorist networks using complex network dynamics and graph-based models for detecting community structures and node centrality.
-
-To implement advanced algorithms, such as the Disparity Filter Algorithm (DFA) for multiscale backbone extraction and the Information Diffusion Algorithm (IDA) for simulating influence propagation and identifying the most influential nodes within the network.
-
-To optimize and reduce the network size by applying edge-weight thresholding techniques, allowing for efficient detection of critical nodes and maximising computational efficiency in network analysis.
-
-To explore the growth and evolution of terrorist networks over time using time-varying graph analysis and temporal motif detection, enhancing the ability to predict future network vulnerabilities and counteract the spread of influence across the network.
+- To analyse and identify key terror hubs and vulnerable motifs within terrorist networks using complex network dynamics and graph-based models for detecting community structures and node centrality.
+- To implement advanced algorithms, such as the Disparity Filter Algorithm (DFA) for multiscale backbone extraction and the Information Diffusion Algorithm (IDA) for simulating influence propagation and identifying the most influential nodes within the network.
+- To optimize and reduce the network size by applying edge-weight thresholding techniques, allowing for efficient detection of critical nodes and maximising computational efficiency in network analysis.
+- To explore the growth and evolution of terrorist networks over time using time-varying graph analysis and temporal motif detection, enhancing the ability to predict future network vulnerabilities and counteract the spread of influence across the network.
 
 <img width="410" alt="Screenshot 2024-09-16 at 17 11 17" src="https://github.com/user-attachments/assets/85f229cb-d2db-4bf1-aaaa-cc601c0d2627">
 
