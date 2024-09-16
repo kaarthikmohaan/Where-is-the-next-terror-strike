@@ -14,6 +14,6 @@ To explore the growth and evolution of terrorist networks over time using time-v
 
 <img width="410" alt="Screenshot 2024-09-16 at 17 11 17" src="https://github.com/user-attachments/assets/85f229cb-d2db-4bf1-aaaa-cc601c0d2627">
 
-<img width="370" alt="Screenshot 2024-09-16 at 17 11 39" src="https://github.com/user-attachments/assets/2f08d620-f668-4cde-ad69-6dcdd15ac955">
+<img width="410" alt="Screenshot 2024-09-16 at 17 11 39" src="https://github.com/user-attachments/assets/2f08d620-f668-4cde-ad69-6dcdd15ac955">
 
 <img width="719" alt="Screenshot 2024-09-16 at 17 11 56" src="https://github.com/user-attachments/assets/2b1a2762-b68e-4b16-90a1-e9c47c5ae318">
